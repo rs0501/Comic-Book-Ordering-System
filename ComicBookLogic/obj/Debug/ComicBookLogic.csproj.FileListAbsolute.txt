@@ -1,0 +1,54 @@
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.csprojResolveAssemblyReference.cache
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookLogic\obj\Debug\ComicBookLogic.pdb

@@ -1,0 +1,192 @@
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe.config
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\App.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.cache
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.lref
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.baml
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.g.resources
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.Properties.Resources.resources
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csproj.GenerateResource.Cache
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.baml
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.baml
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.baml
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.baml
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.baml
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.g.cs
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe.config
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.exe
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csprojResolveAssemblyReference.cache
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\App.g.cs
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.cache
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.lref
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.baml
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.g.resources
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.Properties.Resources.resources
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csproj.GenerateResource.Cache
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe.config
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\App.g.cs
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.cache
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.lref
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.baml
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.baml
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.baml
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.baml
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.baml
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.baml
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.baml
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.g.resources
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.Properties.Resources.resources
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csproj.GenerateResource.Cache
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe.config
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\App.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.cache
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.lref
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.baml
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.baml
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.baml
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.baml
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.baml
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.baml
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.baml
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.g.resources
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.Properties.Resources.resources
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csproj.GenerateResource.Cache
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe.config
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\App.g.cs
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.cache
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.lref
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.baml
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.baml
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.baml
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.baml
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.baml
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.baml
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.baml
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.g.resources
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.Properties.Resources.resources
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csproj.GenerateResource.Cache
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe.config
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookOrdering.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookLogic.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\bin\Debug\ComicBookDataAccess.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csprojResolveAssemblyReference.cache
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\App.g.cs
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.cache
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering_MarkupCompile.lref
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmChangePassword.baml
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicAddEdit.baml
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmComicDetail.baml
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmCustomerAccnt.baml
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmPreferences.baml
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\frmSearchComics.baml
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\MainWindow.baml
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.g.resources
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.Properties.Resources.resources
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookPresentation.csproj.GenerateResource.Cache
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.exe
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookOrdering\obj\Debug\ComicBookOrdering.pdb

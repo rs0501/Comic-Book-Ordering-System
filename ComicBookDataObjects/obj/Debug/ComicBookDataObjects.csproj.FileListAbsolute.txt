@@ -1,0 +1,26 @@
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\Visual Studio 2015\Projects\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.csprojResolveAssemblyReference.cache
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.pdb
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.dll
+F:\NET-Development-II\FinalProject\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET-Development-III\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\NET_III_finalproj-old\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookDataObjects\bin\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.dll
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.pdb
+C:\Users\rspou\Documents\FinalNETIIIproject\ComicBookOrdering\ComicBookDataObjects\obj\Debug\ComicBookDataObjects.csprojResolveAssemblyReference.cache
